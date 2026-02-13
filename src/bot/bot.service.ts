@@ -92,21 +92,12 @@ export class BotService implements OnModuleInit {
       const customQuestions = this.quizService.parseCustomQuestions(text);
       if (customQuestions.length > 0) {
         session.customQuestions = customQuestions;
-        session.state = 'IDLE';
-        session.index = 0;
-        session.score = 0;
+        session.state = 'ENTERING_LIMIT';
 
         await this.bot.sendMessage(
           chatId,
-          `✅ ${customQuestions.length} ta savol qabul qilindi!\n` +
-          `Testni boshlaymizmi?`,
-          {
-            reply_markup: {
-              keyboard: [['🚀 Boshlash']],
-              resize_keyboard: true,
-              one_time_keyboard: true
-            }
-          }
+          `✅ ${customQuestions.length} ta savol qabul qilindi!\n\n` +
+          `🔢 Nechta savol yechmoqchisiz? (1 dan ${customQuestions.length} gacha son kiriting)`
         );
       } else {
         await this.bot.sendMessage(
@@ -114,6 +105,47 @@ export class BotService implements OnModuleInit {
           '❌ Xatolik! JSON formati noto\'g\'ri yoki savollar topilmadi. Iltimos qaytadan urinib ko\'ring.'
         );
       }
+      return;
+    }
+
+    // Handle state ENTERING_LIMIT
+    if (session?.state === 'ENTERING_LIMIT') {
+      const limit = parseInt(text);
+      const questions = session.customQuestions || this.quizService.getQuestions(session.subject!);
+      const max = questions.length;
+
+      if (isNaN(limit) || limit <= 0 || limit > max) {
+        await this.bot.sendMessage(chatId, `❌ Iltimos, 1 va ${max} orasida son kiriting.`);
+        return;
+      }
+
+      session.limit = limit;
+      session.state = 'IDLE';
+      session.index = 0;
+      session.score = 0;
+
+      // Shuffle and slice questions
+      const shuffled = [...questions].sort(() => Math.random() - 0.5);
+      const limitedQuestions = shuffled.slice(0, limit);
+
+      if (session.customQuestions) {
+        session.customQuestions = limitedQuestions;
+      } else {
+        // If it's a subject, we store the limited set in customQuestions for this session
+        session.customQuestions = limitedQuestions;
+      }
+
+      await this.bot.sendMessage(
+        chatId,
+        `🚀 Tayyor! ${limit} ta tasodifiy savol tanlandi.\nBoshlaymizmi?`,
+        {
+          reply_markup: {
+            keyboard: [['🚀 Boshlash']],
+            resize_keyboard: true,
+            one_time_keyboard: true
+          }
+        }
+      );
       return;
     }
 
@@ -128,7 +160,7 @@ export class BotService implements OnModuleInit {
         await this.bot.sendMessage(chatId, '⚠️ Hozirda faol test yo\'q.');
         return;
       }
-      const total = session.customQuestions ? session.customQuestions.length : this.quizService.getTotalQuestions(session.subject!);
+      const total = session.limit || (session.customQuestions ? session.customQuestions.length : this.quizService.getTotalQuestions(session.subject!));
       await this.bot.sendMessage(
         chatId,
         `📊 Joriy natija:\n✅ To'g'ri: ${session.score}\n❌ Noto'g'ri: ${session.index - session.score}\n📝 Jami: ${session.index} / ${total}`
@@ -139,8 +171,14 @@ export class BotService implements OnModuleInit {
     // Check if user selected a subject
     const subjects = this.quizService.getSubjects();
     if (subjects.includes(text)) {
-      sessions.set(chatId, { subject: text, index: 0, score: 0 });
-      await this.sendQuestion(chatId);
+      const questions = this.quizService.getQuestions(text);
+      sessions.set(chatId, { subject: text, index: 0, score: 0, state: 'ENTERING_LIMIT' });
+      await this.bot.sendMessage(
+        chatId,
+        `✅ ${text} fani tanlandi!\n` +
+        `📝 Jami savollar: ${questions.length}\n\n` +
+        `🔢 Nechta savol yechmoqchisiz? (1 dan ${questions.length} gacha son kiriting)`
+      );
       return;
     }
 

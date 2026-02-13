@@ -7,11 +7,12 @@ export interface QuizQuestion {
 
 export const sessions = new Map<
   number,
-  { 
-    subject?: string; 
-    index: number; 
+  {
+    subject?: string;
+    index: number;
     score: number;
-    state?: 'IDLE' | 'ENTERING_CONTENT';
+    state?: 'IDLE' | 'ENTERING_CONTENT' | 'ENTERING_LIMIT';
     customQuestions?: QuizQuestion[];
+    limit?: number;
   }
 >();
