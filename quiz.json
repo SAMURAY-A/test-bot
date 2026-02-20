@@ -4,23 +4,23 @@
       "id": 1,
       "question": "Individning xulqi (xatti-harakati) psixologik kuch vazifasini otovchi ishtiyoq (intilish), maqsad (niyat)lar bilan boshqarilib turiladi va ular fazoviy zarurat maydonining kolami va tayanch nuqtasiga yonaltirilgandir degan nazariyanitaklif qilgan olimni nomini aniqlang?",
       "options": {
-        "A": "K.Levin.",
-        "B": "E.Erikson.",
+        "A": "E.Erikson.",
+        "B": "K.Levin.",
         "C": "E.Krechmer.",
         "D": "F.Myuller."
       },
-      "correct": "A"
+      "correct": "B"
     },
     {
       "id": 2,
       "question": "Inson shaxs sifatida shakllanish jarayonida taraqqiyot bosqichini bosib otadi va ulardan biri Men jamiyat ichida degan pozitsiyadan iboratdir degan fikrni taklif qilgan olimni nomini aniqlang?",
       "options": {
-        "A": "D.I.Feldshteyn.",
-        "B": "E.Torndayk.",
-        "C": "Dj.Kelli.",
+        "A": "E.Torndayk.",
+        "B": "Dj.Kelli.",
+        "C": "D.I.Feldshteyn.",
         "D": "E.Gekkellar."
       },
-      "correct": "A"
+      "correct": "C"
     },
     {
       "id": 3,
@@ -37,12 +37,12 @@
       "id": 4,
       "question": "Ekzopsixika sozi nimani anglatadi?",
       "options": {
-        "A": "Shaxsning tashqi muhitiga nisbatan munosabati.",
-        "B": "Nemischa xatti-harakatlar degan mano anglatadi",
-        "C": "Grekcha muvozanat degan mano anglatadi",
-        "D": "Frantsuzcha qatiy chegara degan mano anglatadi"
+        "A": "Nemischa xatti-harakatlar degan mano anglatadi",
+        "B": "Grekcha muvozanat degan mano anglatadi",
+        "C": "Frantsuzcha qatiy chegara degan mano anglatadi",
+        "D": "Shaxsning tashqi muhitiga nisbatan munosabati."
       },
-      "correct": "A"
+      "correct": "D"
     },
     {
       "id": 5,
@@ -59,56 +59,56 @@
       "id": 6,
       "question": "Ekzopsixika oz tarkibida nimalarni qamrab oladi?",
       "options": {
-        "A": "Shaxs munosabatlarining tizimi, qiziqishlari, mayllari, ideallari, maslagi, ustunlik qiluvchi, hukmron hissiyotlarini, egallagan bilimlarni, tajribalarni va shu kabilarni.",
-        "B": "Ijtimoiy mavjudot bolishlik.",
+        "A": "Ijtimoiy mavjudot bolishlik.",
+        "B": "Shaxs munosabatlarining tizimi, qiziqishlari, mayllari, ideallari, maslagi, ustunlik qiluvchi, hukmron hissiyotlarini, egallagan bilimlarni, tajribalarni va shu kabilarni.",
         "C": "Insonni faol faoliyatga undovchi sabablarni",
         "D": "Ijtimoiy voqeliklar tasiri ostida yuzaga keladi."
       },
-      "correct": "A"
+      "correct": "B"
     },
     {
       "id": 7,
       "question": "Simishek testida xarakter tiplari nechtaligini aniqlang.",
       "options": {
-        "A": "12",
-        "B": "13",
-        "C": "14",
+        "A": "13",
+        "B": "14",
+        "C": "12",
         "D": "15"
       },
-      "correct": "A"
+      "correct": "C"
     },
     {
       "id": 8,
       "question": "Endopsixika nimalarga bogliq?",
       "options": {
-        "A": "Biologik shart-sharoitlar bogliq.",
-        "B": "Ijtimoiy mavjudot bolishlik.",
-        "C": "Insonni faol faoliyatga undovchi sabablarga.",
-        "D": "Ijtimoiy voqeliklar tasiri ostida yuzaga kelishga"
+        "A": "Ijtimoiy mavjudot bolishlik.",
+        "B": "Insonni faol faoliyatga undovchi sabablarga.",
+        "C": "Ijtimoiy voqeliklar tasiri ostida yuzaga kelishga",
+        "D": "Biologik shart-sharoitlar bogliq."
       },
-      "correct": "A"
+      "correct": "D"
     },
     {
       "id": 9,
       "question": "Endopsixika nimani aks ettiradi?",
       "options": {
-        "A": "Tasirlanish, xotira, tafakkur, xayol bilish jarayonlari, irodaviy zor berish, ixtiyorsiz harakatlar va shu kabilarni.",
-        "B": "Odamning biror maqsad yo`lida ongli ravishda qiyinchiliklarni bartaraf qilishni.",
+        "A": "Odamning biror maqsad yo`lida ongli ravishda qiyinchiliklarni bartaraf qilishni.",
+        "B": "Tasirlanish, xotira, tafakkur, xayol bilish jarayonlari, irodaviy zor berish, ixtiyorsiz harakatlar va shu kabilarni.",
         "C": "Shaxsning barcha xatti-harakatlari (xulqi) ongsiz biologik mayllar yoki instinktlar bilan shartlanganlikni.",
         "D": "Taraqqiyotning biologik modeli, muvozanat, integratsiya va yangilanishni."
       },
-      "correct": "A"
+      "correct": "B"
     },
     {
       "id": 10,
       "question": "Fiksal ustanovkalar mannosini aniqlang?",
       "options": {
-        "A": "Qayd etilgan ustanovkalar",
-        "B": "Es-hush ustanovkalari",
-        "C": "Taqqoslash ustanovkalari.",
+        "A": "Es-hush ustanovkalari",
+        "B": "Taqqoslash ustanovkalari.",
+        "C": "Qayd etilgan ustanovkalar",
         "D": "Mano beruvchi ustanovkalar"
       },
-      "correct": "A"
+      "correct": "C"
     },
     {
       "id": 11,
@@ -125,23 +125,23 @@
       "id": 12,
       "question": "Rekapitulyatsiya qonuni nima?",
       "options": {
-        "A": "Filogenezni qisqacha takrorlash.",
-        "B": "Reprezentattsiya.",
+        "A": "Reprezentattsiya.",
+        "B": "Filogenezni qisqacha takrorlash.",
         "C": "Validlik.",
         "D": "Biogenetika."
       },
-      "correct": "A"
+      "correct": "B"
     },
     {
       "id": 13,
       "question": "Shaxsning rolli tuzilishi nomli kontseptsiyani ishlab chiqqan olimlarni nomini aniqlang?",
       "options": {
-        "A": "T.Parsons va G.Mid",
-        "B": "E.Torndayk va B.Skinner",
-        "C": "A.Gezell va K.Levin",
-        "D": "F.Myuller va E.Gekkellar"
+        "A": "E.Torndayk va B.Skinner",
+        "B": "A.Gezell va K.Levin",
+        "C": "F.Myuller va E.Gekkellar",
+        "D": "T.Parsons va G.Mid"
       },
-      "correct": "A"
+      "correct": "D"
     },
     {
       "id": 14,
@@ -158,23 +158,23 @@
       "id": 15,
       "question": "A.G.Kovalev talqiniga binoan imkoniyatni tarifini toping?",
       "options": {
-        "A": "Faoliyatning muvaffaqiyatli amalga oshishini taminlovchi tizim.",
-        "B": "Ijtimoiy muhitda shaxsning xulq-atvor uslubini aniqlaydi.",
+        "A": "Ijtimoiy muhitda shaxsning xulq-atvor uslubini aniqlaydi.",
+        "B": "Faoliyatning muvaffaqiyatli amalga oshishini taminlovchi tizim.",
         "C": "Anglashilgan ehtiyojlar.",
         "D": "Hayot va faoliyat, harakat va xulq-atvorni tuzatish."
       },
-      "correct": "A"
+      "correct": "B"
     },
     {
       "id": 16,
       "question": "A.G.Kovalev talqiniga binoan mashqlar tizimini tarifini toping?",
       "options": {
-        "A": "Hayot va faoliyat, harakat va xulq-atvorni tuzatish.",
-        "B": "Anglashilgan ehtiyojlar.",
-        "C": "Faoliyatning muvaffaqiyatli amalga oshishini taminlovchi tizim.",
-        "D": "Ijtimoiy muhitda shaxsning xulq-atvor uslubini aniqlaydi."
+        "A": "Anglashilgan ehtiyojlar.",
+        "B": "Faoliyatning muvaffaqiyatli amalga oshishini taminlovchi tizim.",
+        "C": "Ijtimoiy muhitda shaxsning xulq-atvor uslubini aniqlaydi.",
+        "D": "Hayot va faoliyat, harakat va xulq-atvorni tuzatish."
       },
-      "correct": "A"
+      "correct": "D"
     },
     {
       "id": 17,
@@ -191,914 +191,45 @@
       "id": 18,
       "question": "A.G.Kovalev talqiniga binoan yonalganlikni tarifini toping?",
       "options": {
-        "A": "Voqelikka nisbatan inson munosabatini aniqlaydi.",
-        "B": "Hayot va faoliyat, harakat va xulq-atvorni tuzatish.",
+        "A": "Hayot va faoliyat, harakat va xulq-atvorni tuzatish.",
+        "B": "Voqelikka nisbatan inson munosabatini aniqlaydi.",
         "C": "Ijtimoiy muhitda shaxsning xulq-atvor uslubini aniqlaydi.",
         "D": "Faoliyatning muvaffaqiyatli amalga oshishini taminlovchi tizim."
       },
-      "correct": "A"
+      "correct": "B"
     },
     {
       "id": 19,
       "question": "A.Gezell va S.Xollarning fikricha taraqqiyotning biologik modelida qanday jarayon yuz beradi degan xulosaga keldilar?",
       "options": {
-        "A": "Muvozanat, integratsiya va yangilanish tsikllari ozaro orin almashinib turadi.",
-        "B": "Tez qozgaluvchanlik va ota barqaror almashinib turadi.",
-        "C": "Odamovilik va his-tuygusi cheklanganlik almashinib turadi.",
-        "D": "Bilim olishga va talim vaziyatlariga almashadi."
+        "A": "Tez qozgaluvchanlik va ota barqaror almashinib turadi.",
+        "B": "Odamovilik va his-tuygusi cheklanganlik almashinib turadi.",
+        "C": "Bilim olishga va talim vaziyatlariga almashadi.",
+        "D": "Muvozanat, integratsiya va yangilanish tsikllari ozaro orin almashinib turadi."
       },
-      "correct": "A"
+      "correct": "D"
     },
     {
       "id": 20,
       "question": "Adaptatsiya sozini manosini aniqlang?",
       "options": {
-        "A": "Konikish.",
-        "B": "Inson taraqqiyoti.",
+        "A": "Inson taraqqiyoti.",
+        "B": "Konikish.",
         "C": "Aksijtimoiy.",
         "D": "Ijtimoiy qoidalar."
       },
-      "correct": "A"
-    },
-    {
-      "id": 21,
-      "question": "Asotsial sozini manosini aniqlang?",
-      "options": {
-        "A": "Aksijtimoiy.",
-        "B": "Pedagogik.",
-        "C": "Biogenetika.",
-        "D": "Ijtimoiy qoidalar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 22,
-      "question": "Astenik xislar qanday xislar deb ataladi?",
-      "options": {
-        "A": "Kuchsiz.",
-        "B": "Kuchli.",
-        "C": "Stimulli.",
-        "D": "Stimulsiz."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 23,
-      "question": "Axloqiy hislar qanday ifodalanadi?",
-      "options": {
-        "A": "Shaxsning, odamlarning va o`zini xulq - atvoriga emotsional munosabatida ifodalanadi.",
-        "B": "Aqliy faoliyat jarayonida hosil bo`ladigan kechinmalarga aytiladi.",
-        "C": "Go`zallikni idrok qilish, zavqlanish, go`zallikni yaratishdan iborat bo`lishi mumkin.",
-        "D": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari orqali."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 24,
-      "question": "B.D.Parigin shaxsning dinamik strukturasining ikki asosiy jabhaga taalluqligiga ishora qilgan va ular qaysilar?",
-      "options": {
-        "A": "Psixik holatlarga va xulqqa.",
-        "B": "Odamning shaxsiy qarashlariga.",
-        "C": "Bilimlaridagi uzilishlarini toldirishga.",
-        "D": "Dunyoqarashlariga asoslanib."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 25,
-      "question": "B.D.Parigin shaxsning dinamik strukturasining necha asosiy jabhaga taalluqli deb ishora qilgan?",
-      "options": {
-        "A": "Ikki.",
-        "B": "Yetti.",
-        "C": "Uch.",
-        "D": "Besh."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 26,
-      "question": "B.D.Pariginning talqiniga kora psixologik tayyorgarlik ozining tuzilishi boyicha necha jabhani qamrab oladi?",
-      "options": {
-        "A": "Uch xil.",
-        "B": "Tort xil.",
-        "C": "Ikki xil.",
-        "D": "Besh xil."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 27,
-      "question": "B.D.Pariginning talqiniga kora psixologik tayyorgarlik ozining tuzilishi boyicha jabhalarni qamrab oladi va ular?",
-      "options": {
-        "A": "Konetantli, dolzarbli, vaziyatli.",
-        "B": "Shaxsiy qarashli, xulq-atvorli, tamoyilli.",
-        "C": "Asosli, harakatli, undovchi.",
-        "D": "Bilimli, talim vaziyatli, tushunchali."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 28,
-      "question": "Bilimlaridagi uzilishlarini toldirishga, talim vaziyatlariga togri moslashishga hamda ularni tushunishga qanday ehtiyojlar zarur imkoniyatlar yaratadi va yordam beradi?",
-      "options": {
-        "A": "Bilish ehtiyojlarini shaxs tomonidan qondirilishi.",
-        "B": "Filogenezi qondirilishi.",
-        "C": "Ilmiy dunyoqarashni qondirilishi.",
-        "D": "Talim vaziyatlarini qondirilishi."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 29,
-      "question": "Bilish ehtiyojlarini shaxs tomonidan qondirilishi qanday zarur imkoniyatlar yaratadi va yordam beradi?",
-      "options": {
-        "A": "Bilimlaridagi uzilishlarini toldirishga, talim vaziyatlariga togri moslashishga hamda ularni tushunishga.",
-        "B": "Shaxsiy qarashlar, imkoniyatlar yaratadi va yordam beradi.",
-        "C": "Taqlid yordam beradi.",
-        "D": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari, ilmiy dunyoqarashlariga asoslanib harakat qilishga undovchi anglashilgan ehtiyojlar majmuidir."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 30,
-      "question": "Biogenetik nazariya negizida bosh omil sifatida nima qabul qilingan?",
-      "options": {
-        "A": "Insonning biologik yetilishi.",
-        "B": "Insonning aqliy yetilishi.",
-        "C": "Insonning sotsiologik yetilishi.",
-        "D": "Insonning qarib yetilishi."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 31,
-      "question": "Biogenetik nazariyaning qarama-qarshi korinishi - aksil qutbi qanday nazariya?",
-      "options": {
-        "A": "Sotsiogenetik nazariya.",
-        "B": "Odamovilik nazariyasi.",
-        "C": "Qozgaluvchanlik nazariyasi.",
-        "D": "Barqarorlik nazariyasi."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 32,
-      "question": "Biogenetik qonunni qaysi olimlar kashf qilganlar?",
-      "options": {
-        "A": "F.Myuller va E.Gekkellar.",
-        "B": "E.Erikson va E.Shpranger.",
-        "C": "E.Torndayk va B.Skinner.",
-        "D": "A.Gezell va K.Levin."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 33,
-      "question": "Bir-tomondan, barqaror motivatsion tuzilma sifatida, boshqa tomondan, shu tushunchalarning ozi funktsional ozgaruvchilar togrisida gapirganda ham qollaniladi deb fikr bildirgan olimni nomini aniqlang?",
-      "options": {
-        "A": "G.Myurrey.",
-        "B": "M.Madsen.",
-        "C": "P.V.Simonov.",
-        "D": "A.G.Leontev."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 34,
-      "question": "Bolaning ijtimoiy taraqqiyotida uning jamiyatga nisbatan munosabatini asosiy va oraliq toifalarga ajratgan olimni nomini aniqlang?",
-      "options": {
-        "A": "D.I.Feldshteyn.",
-        "B": "F.Myuller",
-        "C": "E.Gekkellar.",
-        "D": "V.SHtern"
-      },
-      "correct": "A"
-    },
-    {
-      "id": 35,
-      "question": "D.I.Feldshteyn bolaning ijtimoiy taraqqiyotida uning jamiyatga nisbatan munosabatini qanday toifalarga ajratadi?",
-      "options": {
-        "A": "Asosiy va oraliq.",
-        "B": "Xulq-atvor va tamoyillar.",
-        "C": "Dunyoqarash va harakat.",
-        "D": "Bilim va talim."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 36,
-      "question": "D.N.Uznadzening takidlashicha, insonda ustanovka ...",
-      "options": {
-        "A": "Ustanovka bilan bogliq psixofiziologik holat markaziy nerv sistemasigina emas, balki uning periferik qismi faoliyatini ham mahsuli bolib hisoblana-di.",
-        "B": "Ustanovka shaxs munosabatlarining tizimi, qiziqishlari, mayllari, ideallari, maslagi, ustunlik qiluvchi, hukmron hissiyotlarini, egallagan bilimlarni, tajribalarni va shu kabilardir.",
-        "C": "Ustanovka muayyan qiziqishlarni qondirish bilan bogliq bolgan faoliyatga undovchi sababdir.",
-        "D": "Ustanovka odamning shaxsiy qarashlari, xulq-atvor tamoyillari, ilmiy dunyoqarashlariga asoslanib harakat qilishga undovchi anglashilgan majmuadir."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 37,
-      "question": "D.N.Uznadzening tajribalarida nima aniqlangan?",
-      "options": {
-        "A": "Fiksal ustanovkalar",
-        "B": "Taqqoslash ustanovkalari",
-        "C": "Es-hush ustanovkalari.",
-        "D": "Sintez ustanovkalar"
-      },
-      "correct": "A"
-    },
-    {
-      "id": 38,
-      "question": "Demarkatsion sozini manosini aniqlang?",
-      "options": {
-        "A": "Frantsuzcha - qatiy chegara.",
-        "B": "Lotincha - munosobatlar.",
-        "C": "Eroncha - xatti-harakat.",
-        "D": "Nemischa - individ."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 39,
-      "question": "E.Krechmer odamlarni nechta katta guruhga ajratadi?",
-      "options": {
-        "A": "Ikkita.",
-        "B": "Tortta.",
-        "C": "Oltita.",
-        "D": "Bitta."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 40,
-      "question": "E.Krechmer odamlarni qanday toifalarga ajratgan?",
-      "options": {
-        "A": "Tsikloid va shizoidga.",
-        "B": "Temperamentli va temperamentsizlarga.",
-        "C": "Xarakter va xaraktersizlarga.",
-        "D": "Sangvinik va xoleriklarga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 41,
-      "question": "Etiqod qanday ehtiyojlar majmui?",
-      "options": {
-        "A": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari, ilmiy dunyoqarashlariga asoslanib harakat qilishga undovchi anglashilgan ehtiyojlar majmuidir.",
-        "B": "Shaxsiy ehtiyojlar majmui.",
-        "C": "Taqlid majmui.",
-        "D": "Bilimlaridagi uzilishlarini toldirishga, talim vaziyatlariga togri moslashishga hamda ularni tushunishga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 42,
-      "question": "Ekspressiv xislar qanday xislar?",
-      "options": {
-        "A": "Tashqi jihatdan nomoyon bo`ladigan xislar.",
-        "B": "Atletik jihatdan nomoyon bo`ladigan xislar.",
-        "C": "Sababli jihatdan nomoyon bo`ladigan xislar.",
-        "D": "Stimulsiz jihatdan nomoyon bo`ladigan xislar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 43,
-      "question": "Ekspressiya deb nimaga aytiladi?",
-      "options": {
-        "A": "Hislarning spesifik namoyon bulishi bulib, u ovozda, mimika, pontomimika, yurishda, yogi va kulguda namoyon bo`lishiga aytiladi.",
-        "B": "Shaxsning barcha xatti-harakatlari (xulqi) ongsiz biologik mayllar yoki instinktlar bilan shartlanganligiga aytiladi.",
-        "C": "Psixikaning irratsional tarkibiy qismlari bolmish emotsiya, mayl va shu kabilarga aytiladi.",
-        "D": "Taraqqiyotning biologik modeli, muvozanat, integratsiya va yangilanishiga aytiladi."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 44,
-      "question": "Ekstaversiya nima?",
-      "options": {
-        "A": "Shxsning tevarak-atrofdagi odamlarga, tashqi hodisalarga yonalishi.",
-        "B": "Shaxsning oz fikrilari, sezgilari, kechinmalarining oz-oziga tayanishi.",
-        "C": "Insonni faol faoliyatga undovchi sabablar majmui.",
-        "D": "Ijtimoiy mavjudot bolishlik."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 45,
-      "question": "Emotsiyaning tarjimasi nima?",
-      "options": {
-        "A": "Lotincha so`zdan olingan bolib to`lqinlashtirish degan mano anglatadi.",
-        "B": "Frantsuzcha qatiy chegara degan mano anglatadi.",
-        "C": "Lotincha ajralmas, alohida zot degan mano anglatadi.",
-        "D": "Nemischa xatti-harakatlar degan mano anglatadi."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 46,
-      "question": "Estetik hislar qandayo ifodalanishi mumkin?",
-      "options": {
-        "A": "Go`zallikni idrok qilish, zavqlanish, go`zallikni yaratishdan iborat bo`lishi mumkin.",
-        "B": "Aqliy faoliyat jarayonida hosil bo`ladigan kechinmalarga aytiladi.",
-        "C": "Shaxsning, odamlarning va o`zini xulq - atvoriga emotsional munosabatida ifodalanadi.",
-        "D": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari orqali."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 47,
-      "question": "F.Myuller va E.Gekkellar kashf qilgan qonunni aniqlang?",
-      "options": {
-        "A": "Biogenetik qonun.",
-        "B": "Sotsiogenetik qonun.",
-        "C": "Ijtimoiy taraqqiyot qonuni.",
-        "D": "Psixogenetik qonun."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 48,
-      "question": "Faoliyat nazariyasi asoschisini aniqlang?",
-      "options": {
-        "A": "A.N.Leontev.",
-        "B": "I.P.Pavlov.",
-        "C": "N.A.Bernshteyn.",
-        "D": "P.K.Anoxin."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 49,
-      "question": "Faollik say-harakatlarda nima vujudga keladi?",
-      "options": {
-        "A": "Faollik shaxsning atrof-muhitdagi voqelikni egallashga intilgan say-harakatlarda vujudga keladi.",
-        "B": "Go`zallikni idrok qilish, zavqlanish, go`zallikni yaratishga.",
-        "C": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari.",
-        "D": "Dunyoqarashga asoslanib harakat qilishga undovchi ehtiyojlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 50,
-      "question": "Fenotip sozini manosini aniqlang?",
-      "options": {
-        "A": "Taraqqiyot natijasi bilan otgan xususiyatlar.",
-        "B": "Irsiy yol bilan otgan xususiyatlar.",
-        "C": "Kasal bolish oraqali paydo bilan xususiyatlar.",
-        "D": "Tabiiy ofat natijasida paydo bilan xususiyatlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 51,
-      "question": "Filogenezni qisqacha takrorlash nima?",
-      "options": {
-        "A": "Rekapitulyatsiya qonuni.",
-        "B": "Ekzopsixika qonuni.",
-        "C": "Endopsixika qonuni.",
-        "D": "Ekstaversiya qonuni."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 52,
-      "question": "G. Myurrey fikricha, ehtiyojlar",
-      "options": {
-        "A": "Bir-tomondan, barqaror motivatsion tuzilma sifatida, boshqa tomondan, shu tushunchalarning ozi funktsional ozgaruvchilar togrisida gapirganda ham qollaniladi.",
-        "B": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari, ilmiy dunyoqarashlariga asoslanib harakat qilishga undovchi anglashilgan ehtiyojlar majmuidir.",
-        "C": "Bilimlaridagi uzilishlarini toldirishga, talim vaziyatlariga togri moslashishga hamda ularni tushunishga.",
-        "D": "Bazi psixologlar motivatsiyada dispozitsion va funktsional ozgaruvchilarni aniq farqlashsa, boshqa psixologlar esa aynan bir xil tushunchalardan foydalanishlarini takidlagan."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 53,
-      "question": "G.Ayzenk kontseptsiyasi boyicha shaxs modelining psixologik omillari nechta?",
-      "options": {
-        "A": "2 ta.",
-        "B": "23 ta.",
-        "C": "41 ta.",
-        "D": "20 ta."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 54,
-      "question": "Genotip sozini manosini aniqlang?",
-      "options": {
-        "A": "Irsiy yol bilan otgan xususiyatlar.",
-        "B": "Kasal bolish oraqali paydo bilan xususiyatlar.",
-        "C": "Taraqqiyot natijasida bilan otgan xususiyatlar.",
-        "D": "Tabiiy ofat natijasida paydo bilan xususiyatlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 55,
-      "question": "Gruzin psixologlarining fikricha...",
-      "options": {
-        "A": "Ustanovkaning bazi bir xislatlari mutanosibligi uning har xil tiplarini vujudga keltiradi.",
-        "B": "Ustanovka xulq-atvor va faoliyatning anglanilmagan omillarini keltirib chiqaradi.",
-        "C": "Ustanovka tez qozgaluvchi, his-tuygusi ota barqarorligini keltirib chiqaradi.",
-        "D": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari, ilmiy dunyoqarashlariga asoslanib harakat qilishga olib keladi."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 56,
-      "question": "Har qanday motivlarning orqasida kimning ehtiyojlari yotadi?",
-      "options": {
-        "A": "Shaxsning.",
-        "B": "Guruhning.",
-        "C": "Jamoaning.",
-        "D": "Bolaning."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 57,
-      "question": "Hayot va faoliyat jarayonida nimalar egallanadi?",
-      "options": {
-        "A": "Bilimlar, konikmalar, malakalar",
-        "B": "Emotsiya, xotira, idrok",
-        "C": "Sezgi, tafakkur, hayol.",
-        "D": "Temperament, xarakter, qobiliyatlar"
-      },
-      "correct": "A"
-    },
-    {
-      "id": 58,
-      "question": "Hislar mazmuniga ko`ra qanday turlarga bo`linadi?",
-      "options": {
-        "A": "Axloqiy, intelektual, estetik, proksis hislar.",
-        "B": "Jarayonli, xolatli, vaziyatli, tushkunli.",
-        "C": "Ijtimoiy, madaniy, manaviy, moddiy.",
-        "D": "Biologik modelli, muvozanatli."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 59,
-      "question": "Hislar nimalarga qarab bo`linadi?",
-      "options": {
-        "A": "Mazmuniga va qo`zgaluvchanliga.",
-        "B": "Individun xulqiga.",
-        "C": "Ongsiz biologik mayllarga.",
-        "D": "Xatti-harakatlarga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 60,
-      "question": "Hislarning spesifik namoyon bulishi bolib, u ovozda, mimika, pontomimika, yurishda, yogi va kulguda namoyon bo`lishiga nima deb aytiladi?",
-      "options": {
-        "A": "Ekspressiya.",
-        "B": "Irratsional tarkibiy qism.",
-        "C": "Emotsional holat.",
-        "D": "Introspektsiya."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 61,
-      "question": "Hissiyot necha turga bo`linadi?",
-      "options": {
-        "A": "Ikki turga.",
-        "B": "Uch turga.",
-        "C": "Olti turga.",
-        "D": "Sakkiz turga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 62,
-      "question": "Hissiyot nima?",
-      "options": {
-        "A": "Olamdagi narsa va hodisalarga nisbatan bo`lgan munosobatlarimizning va munosobatlarimizdan hosil bo`ladigan ichki kechinmalarimizning ongimizda aks ettirishdir.",
-        "B": "Shaxsning barcha xatti-harakatlari (xulqi) ongsiz biologik mayllar yoki instinktlar bilan shartlashga nisbatan bo`lgan munosobatlarimiz.",
-        "C": "Taraqqiyotning biologik modeli, muvozanat, integratsiya va yangilanishga nisbatan bo`lgan munosobatlarimiz",
-        "D": "Psixikaning irratsional tarkibiy qismlari bolmish emotsiya, mayl va shu kabilarga munosobatlarimizdan hosil bo`ladigan tashqi kechinmalarimiz"
-      },
-      "correct": "A"
-    },
-    {
-      "id": 63,
-      "question": "Hissiyotlar o`zining yuzaga kelishi nuqtai nazaridan odamning nimasi bilan bog`liq bo`ladi?",
-      "options": {
-        "A": "Ehtiyojlari, qiziqishlari va intilishlari.",
-        "B": "Ijtimoiy, madaniy, manaviy, moddiyligi.",
-        "C": "Biologik modelli, muvozanatli.",
-        "D": "Axloqiy, intelektual, estetik, proksis hislari."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 64,
-      "question": "Hissiyotlarning boshqaruvchanlik funktsiyasining barqaror kechinmalari bizning xulqimizni yo`naltiradi va nimalarni engishga undaydi?",
-      "options": {
-        "A": "Qarama-qarshiliklarni.",
-        "B": "Ehtiyojlar majmuini.",
-        "C": "Irratsional tarkibiy qismni.",
-        "D": "Ijtimoiy mavjudotni."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 65,
-      "question": "His-tuyg`u nima?",
-      "options": {
-        "A": "Borliqni o`ziga xos aks etishi bo`lib unda insonning olamga subektiv munosabati aks etadi.",
-        "B": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari.",
-        "C": "Bilimlaridagi uzilishlarini toldirish munosobatlarimizdan hosil bo`ladigan ichki kechinmalarimiz",
-        "D": "Talim vaziyatlariga togri moslashishga hamda ularni tushunish."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 66,
-      "question": "His-tuyg`uni yuzaga keltiruvchi sabab nima?",
-      "options": {
-        "A": "Stimullardir.",
-        "B": "Munosobatlar.",
-        "C": "Xatti-harakat.",
-        "D": "Individ."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 67,
-      "question": "Hozirgi zamon jahon psixologiyasida biologik (tabiiy) va ijtimoiy (sotsial) omilning tasiri ostida shakllangan inson shaxsida nechta muhim qism bolganligini tasdiqlovchi nazariya yuksak mavqeni egallab turibdi?",
-      "options": {
-        "A": "Ikkita",
-        "B": "Bitta.",
-        "C": "Beshta.",
-        "D": "Tortta"
-      },
-      "correct": "A"
-    },
-    {
-      "id": 68,
-      "question": "I.P.Pavlov, N.A.Bernshteyn, P.K.Anoxinlar qanday modelni ishlab chiqqanlar?",
-      "options": {
-        "A": "Xulq atvor dinamikasi funktsional sistemasi.",
-        "B": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari.",
-        "C": "Ilmiy dunyoqarashlarga asoslanib harakat qilish.",
-        "D": "Talim vaziyatlariga togri moslashish."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 69,
-      "question": "Ijtimoiy qurshov nima?",
-      "options": {
-        "A": "Oila azolari, mahalla ahli, jamoatchilik, ishlab chiqarish jamoasi.",
-        "B": "Bilimlaridagi uzilishlarini toldirish.",
-        "C": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari.",
-        "D": "Atrof-muhitdagi voqelikni egallashga intilgan say-harakatlarga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 70,
-      "question": "Ijtimoiylashish sozini manosini aniqlang?",
-      "options": {
-        "A": "Sotsializatsiya.",
-        "B": "Ekzopsixika.",
-        "C": "Endopsixika.",
-        "D": "Motivatsiya."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 71,
-      "question": "Ijtimoiylashuv nazariyasiga kora, qanday tasir ostida shaxsga aylanadi?",
-      "options": {
-        "A": "Inson biologik tur sifatida tugilib, hayotning ijtimoiy shart-sharoitlarining bevosita tasiri ostida shaxsga aylanadi.",
-        "B": "Bilimlaridagi uzilishlarini toldirish natijasida shaxsga munosobatlarimizdan hosil bo`ladigan ichki kechinmalarimiz",
-        "C": "Ilmiy dunyoqarashlarga asoslanish natijasida shaxsga aylanadi.",
-        "D": "Anglashilgan ehtiyojlar majmui natijasida shaxsga aylanadi."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 72,
-      "question": "Imitatsiya sozini manosini toping?",
-      "options": {
-        "A": "Taqlid.",
-        "B": "Shaxsiyat.",
-        "C": "Mano.",
-        "D": "Etiqod."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 73,
-      "question": "Individ sozining manosini nima?",
-      "options": {
-        "A": "Individ lotincha - ajralmas, alohida zot degan mano anglatadi.",
-        "B": "Go`zallikni idrok qilish, zavqlanish, go`zallikni yaratishga.",
-        "C": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari.",
-        "D": "Bilimlaridagi uzilishlarini toldirish."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 74,
-      "question": "Individlar deb nimaga aytiladi?",
-      "options": {
-        "A": "Katta yoshdagi ruhiy soglom odamlar ham, chaqaloq ham, nutqi yoq, oddiy malakalarni ozlashtira olmaydigan aqli zaiflar ham individlar deb ataladi.",
-        "B": "Atrof-muhitdagi voqelikni egallashga intilgan say-harakatlarga.",
-        "C": "Oila azolari, mahalla ahli, jamoatchilik, ishlab chiqarish jamoasiga.",
-        "D": "Bilimlaridagi uzilishlarini toldirishga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 75,
-      "question": "Individual tipologik xususiyatlar asosan nimalarda aks etadi?",
-      "options": {
-        "A": "Temperament, xarakter, qobiliyatlarda.",
-        "B": "Emotsiya, xotira, idrokda",
-        "C": "Sezgi, tafakkur, hayolda",
-        "D": "Bilim, talim-tarbiyada"
-      },
-      "correct": "A"
-    },
-    {
-      "id": 76,
-      "question": "Individuallik deganda nima tushuniladi?",
-      "options": {
-        "A": "Insonning shaxsiy psixologik xususiyatlarining betakror birikmasi tushuniladi.",
-        "B": "Bilimlaridagi uzilishlarini toldirish.",
-        "C": "Go`zallikni idrok qilish, zavqlanish, go`zallikni yaratishga.",
-        "D": "Dunyoqarashga asoslanib harakat qilishga undovchi ehtiyojlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 77,
-      "question": "Individuallik tarkibiga nimalar kiradi?",
-      "options": {
-        "A": "Xarakter, temperament, psixik jarayonlar, holatlar, hodisalar, hukmron xususiyatlar yigindisi, iroda, faoliyatlar motivlari, inson maslagi, dunyoqarashi, iqtidori, har xil shakldagi reaktsiyalar, qobiliyatlari va shu kabilar kiradi.",
-        "B": "Bilimlaridagi uzilishlarini toldirish.",
-        "C": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari.",
-        "D": "Dunyoqarashga asoslanib harakat qilishga undovchi ehtiyojlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 78,
-      "question": "Inson ehtiyojlari, maqsadi, istagi, qiziqishlari qanday holatlardir?",
-      "options": {
-        "A": "Shaxsiy.",
-        "B": "Guruhiy.",
-        "C": "Jamoaviy.",
-        "D": "Todaning."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 79,
-      "question": "Inson taraqqiyotiga shaxsni tarkib toptirishning sotsial-psixologik nuqtai nazardan yondashgan olimni nomini aniqlang?",
-      "options": {
-        "A": "A.V.Petrovskiy.",
-        "B": "E.Gekkellar.",
-        "C": "Dj.Kelli.",
-        "D": "Dj.Birrer."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 80,
-      "question": "Insonni psixik boshqaruvchanligining buzilishi nimadeb ataladi?",
-      "options": {
-        "A": "Abulie.",
-        "B": "Motivatsiya.",
-        "C": "Ekstaversiya.",
-        "D": "Introversiya."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 81,
-      "question": "Insonni shaxs sifatida shakllanish jarayonida Men jamiyat ichida hamda Men va jamiyat kabi taraqqiyot bosqichlarini taklif qilgan olimni nomini aniqlang?",
-      "options": {
-        "A": "D.I.Feldshteyn.",
-        "B": "Dj.Kelli.",
-        "C": "E.Gekkellar.",
-        "D": "Dj.Birrer."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 82,
-      "question": "Insonning psixik funktsiyalarini yuksak, madaniy, quyi, tabiiy turlarga ajratishni kiritish mumkin degan mulohazani yuritgan olimni nomini aniqlang?",
-      "options": {
-        "A": "L.S.Vigotskiy",
-        "B": "E.Krechmer",
-        "C": "F.Myuller.",
-        "D": "E.Gekkellar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 83,
-      "question": "Instinktlar nazariyasi asoschilarini aniqlang?",
-      "options": {
-        "A": "Z.Freyd, U.Magdugall.",
-        "B": "F.Myuller, E.Gekkel.",
-        "C": "E.Shpranger, E.Torndayk.",
-        "D": "A.Gezell, K.Levin."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 84,
-      "question": "Intellektual hislar deb nimaga aytiladi?",
-      "options": {
-        "A": "Aqliy faoliyat jarayonida hosil bo`ladigan kechinmalarga aytiladi.",
-        "B": "Shaxsning, odamlarning va o`zini xulq - atvoriga emotsional munosabatida ifodalanadi.",
-        "C": "Go`zallikni idrok qilish, zavqlanish, go`zallikni yaratishdan iborat bo`lishi mumkin.",
-        "D": "Odamning shaxsiy qarashlari, xulq-atvor tamoyillari orqali."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 85,
-      "question": "Introversiya nima?",
-      "options": {
-        "A": "Shaxsning oz fikrilari, sezgilari, kechinmalarining oz-oziga tayanishi.",
-        "B": "Shxsning tevarak-atrofdagi odamlarga, tashqi hodisalarga yonalishi.",
-        "C": "Ijtimoiy mavjudot bolishlik.",
-        "D": "Insonni faol faoliyatga undovchi sabablar majmui."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 86,
-      "question": "Iroda deb nimaga aytiladi?",
-      "options": {
-        "A": "Odamning biror maqsad yo`lida ongli ravishda qiyinchiliklarni bartaraf qilishga qaratilgan xatti- harakatlardir.",
-        "B": "Shaxsning, odamlarning va o`zini xulq - atvoriga emotsional munosabatiga.",
-        "C": "Aqliy faoliyat jarayonida hosil bo`ladigan kechinmalarga.",
-        "D": "Go`zallikni idrok qilish, zavqlanish, go`zallikni yaratishga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 87,
-      "question": "Iroda qanday mexanizmlarga ega?",
-      "options": {
-        "A": "Tormozlovchi va boshqaruvchiga.",
-        "B": "Aqliy faoliyat va kechinmalarga.",
-        "C": "Idrok qilish va zavqlanishga.",
-        "D": "Qarashlari va xulq-atvor tamoyillariga."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 88,
-      "question": "Ya.Strelyauning shaxs tipini aniqlash testida nerv tizimining qaysi sifatlari aniqlanar edi?",
-      "options": {
-        "A": "Qozgalish, tormozlanish, xavotirlanish",
-        "B": "Qozgalish, tormozlanish, xayajonlanish",
-        "C": "Qozgalish, tormozlanish, xushchaqchaqlik",
-        "D": "Qozgalish, tormozlanish, juratsizlik"
-      },
-      "correct": "A"
-    },
-    {
-      "id": 89,
-      "question": "Jamiyatda oz rolini anglovchi, ishga layoqatli, yaroqli azosi shaxs deyiladi deb shaxsga tarif bergan olimni nomini aniqlang?",
-      "options": {
-        "A": "K.K.Platonov.",
-        "B": "E.Torndayk.",
-        "C": "Dj.Kelli.",
-        "D": "E.Gekkellar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 90,
-      "question": "Jonli mavjudodning hayot kechirishning konkret shart-sharoitlariga qaramligini ifoda etuvchi va bu shart-sharoitlarga nisbatan uning faolligini vujudga keltiruvchi holat nima?",
-      "options": {
-        "A": "Ehtiyoj.",
-        "B": "Yo`nalish.",
-        "C": "Ustanovkalar.",
-        "D": "Xatti-harakat."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 91,
-      "question": "K.K.Platonov shaxs tuzilishining turli tomonlari bilan ozaro aloqador necha tuzilishni ajratdi?",
-      "options": {
-        "A": "Tort xil.",
-        "B": "Bir xil.",
-        "C": "Uch xil.",
-        "D": "Besh xil."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 92,
-      "question": "K.K.Platonov talimotiga kora biologik shartlangan osttuzilishni toping?",
-      "options": {
-        "A": "Miya morfologik va fiziologik xususiyatlariga muayyan darajada bogliq bolgan patologik ozgarishlar.",
-        "B": "Yonalganlik, ijtimoiy tajriba osttuzilishi, psixologik aks ettirish shakllari, biologik shartlangan osttuzilishlar.",
-        "C": "Talim vositasida, shaxsiy tajribada egallangan bilimlar, konikmalar va odatlarni qamrab oladi.",
-        "D": "Ijtimoiy turmush jarayonida shakllanuvchi bilish jarayonlarining individual xususiyatlari."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 93,
-      "question": "K.K.Platonov talimotiga kora ijtimoiy tajriba osttuzilishini tarifini toping?",
-      "options": {
-        "A": "Talim vositasida, shaxsiy tajribada egallangan bilimlar, konikmalar va odatlarni qamrab oladi.",
-        "B": "Ijtimoiy turmush jarayonida shakllanuvchi bilish jarayonlarining individual xususiyatlari.",
-        "C": "Miya morfologik va fiziologik xususiyatlariga muayyan darajada bogliq bolgan patologik ozgarishlar.",
-        "D": "Yonalganlik, ijtimoiy tajriba osttuzilishi, psixologik aks ettirish shakllari, biologik shartlangan osttuzilishlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 94,
-      "question": "K.K.Platonov talimotiga kora psixologik aks ettirish shakllari osttuzilishini toping?",
-      "options": {
-        "A": "Ijtimoiy turmush jarayonida shakllanuvchi bilish jarayonlarining individual xususiyatlari.",
-        "B": "Talim vositasida, shaxsiy tajribada egallangan bilimlar, konikmalar va odatlarni qamrab oladi.",
-        "C": "Miya morfologik va fiziologik xususiyatlariga muayyan darajada bogliq bolgan patologik ozgarishlar.",
-        "D": "Yonalganlik, ijtimoiy tajriba osttuzilishi, psixologik aks ettirish shakllari, biologik shartlangan osttuzilishlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 95,
-      "question": "K.K.Platonov talimotiga kora shaxs tuzilishni aniqlang?",
-      "options": {
-        "A": "Yonalganlik, ijtimoiy tajriba osttuzilishi, psixologik aks ettirish shakllari, biologik shartlangan osttuzilishlar.",
-        "B": "Hayot va faoliyat jarayonida egallanadi.",
-        "C": "Ijtimoiy muhitda shaxsning xulq-atvor uslubini aniqlaydi.",
-        "D": "Ehtiyojlar, ideallar, etiqodlar, faoliyat va xulqning ustuvor motivlari hamda dunyokarashlari."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 96,
-      "question": "K.K.Platonov talimotiga kora yonalganlik osttuzilishini tarifini toping?",
-      "options": {
-        "A": "Shaxsning axloqiy qiyofasi va munsabatlarini birlashtiradi.",
-        "B": "Talim vositasida, shaxsiy tajribada egallangan bilimlar, konikmalar va odatlarni qamrab oladi.",
-        "C": "Ijtimoiy turmush jarayonida shakllanuvchi bilish jarayonlarining individual xususiyatlari.",
-        "D": "Yonalganlik, ijtimoiy tajriba osttuzilishi, psixologik aks ettirish shakllari, biologik shartlangan osttuzilishlar."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 97,
-      "question": "K.Levin tomonidan tavsiya qilingan nazariyasi aniqlang?",
-      "options": {
-        "A": "Fazoviy zarurat maydoni.",
-        "B": "Xatti-harakatlar maydoni.",
-        "C": "Ongsiz biologik mayllar maydoni.",
-        "D": "Uslubiy qurollar maydoni."
-      },
-      "correct": "A"
-    },
-    {
-      "id": 98,
-      "question": "Kettell kontseptsiyasi boyicha shaxs modelining psixologik omillari nechta?",
-      "options": {
-        "A": "16 ta (Hujjatda 16 yo'q, lekin 23 keltirilgan).",
-        "B": "23 ta.",
-        "C": "41 ta.",
-        "D": "20 ta."
-      },
       "correct": "B"
-    },
-    {
-      "id": 99,
-      "question": "Kognitivistik yonalishning asoschilarini aniqlang?",
-      "options": {
-        "A": "J.Piaje va Dj.Kelli.",
-        "B": "L.Kolberg va D.Bromley.",
-        "C": "E.Shpranger va Skinner.",
-        "D": "F.Myuller va E.Gekkellar."
-      },
-      "correct": "A"
     },
     {
       "id": 100,
       "question": "Zigmund Freydning shaxs talqiniga kora shaxsning barcha xatti-harakatlari (xulqi) nimalarga bogliq?",
       "options": {
-        "A": "Ongsiz biologik mayllar yoki instinktlar bilan shartlangan, ayniqsa, birinchi navbatda, u jinsiy mayliga.",
-        "B": "Odamovilik va his-tuygu hamda ijtimoiy munosabatlarga kirisha olish qobiliyatiga.",
-        "C": "Tez qozgaluvchanlik va ota barqarorlik shu bilan birgalikda vaziyatga tez moslashishga.",
+        "A": "Odamovilik va his-tuygu hamda ijtimoiy munosabatlarga kirisha olish qobiliyatiga.",
+        "B": "Tez qozgaluvchanlik va ota barqarorlik shu bilan birgalikda vaziyatga tez moslashishga.",
+        "C": "Ongsiz biologik mayllar yoki instinktlar bilan shartlangan, ayniqsa, birinchi navbatda, u jinsiy mayliga.",
         "D": "Taraqqiyotning biologik modeli va taraqqiyot rivojlanishiga hissa qoshadigan omillarga."
       },
-      "correct": "A"
+      "correct": "C"
     }
   ]
 }
