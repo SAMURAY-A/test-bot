@@ -7,6 +7,7 @@ import { ConfigService } from '@nestjs/config';
 @Injectable()
 export class BotService implements OnModuleInit {
   private bot: TelegramBot;
+  private pollToChat = new Map<string, number>();
 
   constructor(
     private quizService: QuizService,
@@ -25,6 +26,7 @@ export class BotService implements OnModuleInit {
     this.bot = new TelegramBot(token, { polling: true });
 
     this.bot.on('message', (msg) => this.handleMessage(msg));
+    this.bot.on('poll_answer', (answer) => this.handlePollAnswer(answer));
     this.bot.on('polling_error', (error) => {
       console.error('❌ Polling error:', error);
     });
@@ -47,8 +49,9 @@ export class BotService implements OnModuleInit {
       console.log('📌 /start command received');
       sessions.delete(chatId);
       const subjects = this.quizService.getSubjects();
+      console.log('📋 Available subjects:', subjects);
 
-      const keyboard = subjects.map((subject) => [subject]);
+      const keyboard = subjects.map((subject) => [subject.replace(/_/g, ' ')]);
       keyboard.push(['➕ Yangi test qo\'shish']); // Button for /newtest
 
       await this.bot.sendMessage(
@@ -62,6 +65,23 @@ export class BotService implements OnModuleInit {
             one_time_keyboard: false,
           },
         },
+      );
+      return;
+    }
+
+    // NEW: Check if user selected a subject (moved up to prioritize over state handling)
+    const subjects = this.quizService.getSubjects();
+    const selectedSubject = subjects.find(s => s === text || s.replace(/_/g, ' ') === text);
+
+    if (selectedSubject) {
+      console.log(`🎯 Subject selected: "${selectedSubject}"`);
+      const questions = this.quizService.getQuestions(selectedSubject);
+      sessions.set(chatId, { subject: selectedSubject, index: 0, score: 0, state: 'ENTERING_LIMIT' });
+      await this.bot.sendMessage(
+        chatId,
+        `✅ ${selectedSubject.replace(/_/g, ' ')} fani tanlandi!\n` +
+        `📝 Jami savollar: ${questions.length}\n\n` +
+        `🔢 Nechta savol yechmoqchisiz? (1 dan ${questions.length} gacha son kiriting)`
       );
       return;
     }
@@ -168,39 +188,35 @@ export class BotService implements OnModuleInit {
       return;
     }
 
-    // Check if user selected a subject
-    const subjects = this.quizService.getSubjects();
-    if (subjects.includes(text)) {
-      const questions = this.quizService.getQuestions(text);
-      sessions.set(chatId, { subject: text, index: 0, score: 0, state: 'ENTERING_LIMIT' });
-      await this.bot.sendMessage(
-        chatId,
-        `✅ ${text} fani tanlandi!\n` +
-        `📝 Jami savollar: ${questions.length}\n\n` +
-        `🔢 Nechta savol yechmoqchisiz? (1 dan ${questions.length} gacha son kiriting)`
-      );
-      return;
-    }
+    // (Subject selection logic was moved up)
+  }
 
-    // Handle answer
-    if (!session || (session.index === 0 && !session.subject && !session.customQuestions)) {
-      await this.bot.sendMessage(chatId, '⚠️ Avval testni boshlang. /start buyrug\'i yordamida.');
-      return;
-    }
+  private async handlePollAnswer(answer: TelegramBot.PollAnswer) {
+    const pollId = answer.poll_id;
+    const chatId = this.pollToChat.get(pollId);
+    if (!chatId) return;
+
+    const session = sessions.get(chatId);
+    if (!session || session.lastPollId !== pollId) return;
 
     const questions = session.customQuestions || this.quizService.getQuestions(session.subject!);
     const currentQuestion = questions[session.index];
-
     if (!currentQuestion) return;
 
-    const isCorrect = text.trim().toUpperCase() === currentQuestion.correct.trim().toUpperCase();
+    // Check answer
+    const userOptions = answer.option_ids;
+    const correctOptions = currentQuestion.correctOptions || [];
+
+    // For quiz mode, single answer. For regular mode, multiple.
+    const isCorrect = userOptions.length === correctOptions.length &&
+      userOptions.every(val => correctOptions.includes(val));
 
     if (isCorrect) {
       session.score++;
-      await this.bot.sendMessage(chatId, '✅ To\'g\'ri!');
-    } else {
-      await this.bot.sendMessage(chatId, `❌ Noto'g'ri! To'g'ri javob: ${currentQuestion.correct}`);
     }
+
+    // Clean up mapping
+    this.pollToChat.delete(pollId);
 
     session.index++;
 
@@ -212,7 +228,8 @@ export class BotService implements OnModuleInit {
       );
       sessions.delete(chatId);
     } else {
-      await this.sendQuestion(chatId);
+      // Delay slightly for user to see the result of the poll if it was a quiz
+      setTimeout(() => this.sendQuestion(chatId), 1500);
     }
   }
 
@@ -227,16 +244,26 @@ export class BotService implements OnModuleInit {
 
     if (!question) return;
 
-    const keyboard = [['A', 'B'], ['C', 'D']];
-    let questionText = `📝 Savol ${session.index + 1}/${questions.length}\n\n${question.question}\n\n`;
+    const isMultiple = (question.correctOptions?.length || 0) > 1;
 
-    const optionLetters = ['A', 'B', 'C', 'D'];
-    question.options.forEach((opt, idx) => {
-      if (idx < optionLetters.length) questionText += `${optionLetters[idx]}) ${opt}\n`;
-    });
+    try {
+      const poll = await this.bot.sendPoll(
+        chatId,
+        `Savol ${session.index + 1}/${questions.length}:\n${question.question}`,
+        question.options,
+        {
+          type: isMultiple ? 'regular' : 'quiz',
+          allows_multiple_answers: isMultiple,
+          correct_option_id: isMultiple ? undefined : question.correctOptions?.[0],
+          is_anonymous: false,
+        }
+      );
 
-    await this.bot.sendMessage(chatId, questionText, {
-      reply_markup: { keyboard, resize_keyboard: true }
-    });
+      session.lastPollId = poll.poll.id;
+      this.pollToChat.set(poll.poll.id, chatId);
+    } catch (error) {
+      console.error('❌ Error sending poll:', error);
+      await this.bot.sendMessage(chatId, '❌ Savolni yuborishda xatolik yuz berdi. Iltimos qaytadan urinib ko\'ring.');
+    }
   }
 }

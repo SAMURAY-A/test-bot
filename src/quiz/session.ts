@@ -3,6 +3,7 @@ export interface QuizQuestion {
   question: string;
   options: string[];
   correct: string;
+  correctOptions?: number[];
 }
 
 export const sessions = new Map<
@@ -14,5 +15,6 @@ export const sessions = new Map<
     state?: 'IDLE' | 'ENTERING_CONTENT' | 'ENTERING_LIMIT';
     customQuestions?: QuizQuestion[];
     limit?: number;
+    lastPollId?: string;
   }
 >();

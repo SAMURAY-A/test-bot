@@ -1,4 +1,1096 @@
 {
+  
+  "Individual_va_guruhiy_konsultatsiya": [
+    {
+      "id": 1,
+      "question": "Psixodramma usulini psixoterapevtik usul sifatida fanga kiritgan olim:",
+      "options": {
+        "A": "Z. Freyd;",
+        "B": "Ya. Moreno;",
+        "C": "V. Rayx;",
+        "D": "K. Rodjers"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 2,
+      "question": "Psixodrammaning asosiy terapevtik mexanizmi bu:",
+      "options": {
+        "A": "katarsis va guruhiy ahillik",
+        "B": "katarsis va insayt",
+        "C": "katarsis va immitatsion xatti harakat",
+        "D": "anglash zonasini kengayishi"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 3,
+      "question": "Psixodramma guruhidagi rahbar bu:",
+      "options": {
+        "A": "Protagonist",
+        "B": "Suppervayzer",
+        "C": "Rejisser",
+        "D": "psixoanalitik"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 4,
+      "question": "Аniq psixodramatik faoliyatning subʼektiv aʼzosi .... xisoblanadi:",
+      "options": {
+        "A": "Rejisser",
+        "B": "Psixoanalitik",
+        "C": "Patsient",
+        "D": "Protagonist"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 5,
+      "question": "Karl Rodjersning terapevtik yondoshuvi bu:",
+      "options": {
+        "A": "psixoanaliz;",
+        "B": "mijozga qaratilgan terapiya",
+        "C": "geshtalt-terapiya",
+        "D": "individual psixoterapiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 6,
+      "question": "Psixodramma fazasini ketma ketligini toping:",
+      "options": {
+        "A": "razminka, psixodramatik faoliyat, integratsiya.",
+        "B": "integratsiya, razminka, psixodramatik faoliyat",
+        "C": "psixodramatik faoliyat, integratsiya, razminka",
+        "D": "razminka, integratsiya, psixodramatik faoliyat"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 7,
+      "question": "Psixodramaning maxsus ko‘rinishi, bunda shaxsiy muammolarning o‘rniga guruh bilan ishlagan vaqtagi muammolar tahlil qilinadi:",
+      "options": {
+        "A": "sotsiometriya;",
+        "B": "sotsiodrama;",
+        "C": "sotsiomatritsa;",
+        "D": "sotsiologiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 8,
+      "question": "Ratsional emotiv psixoterapiyaning muallifi kim:",
+      "options": {
+        "A": "V.Satir",
+        "B": "V. Bexterev",
+        "C": "A. Ellis",
+        "D": "Z. Freyd"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 9,
+      "question": "Ratsional emotiv psixoterapiyaning asosi bu... xisoblanadi",
+      "options": {
+        "A": "tushuntirish;",
+        "B": "mantiqiy asoslash;",
+        "C": "taʼsir o‘tkazi;",
+        "D": "korrektsiya qilish;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 10,
+      "question": "Kichik guruhlar psixologiyasi o‘z ichiga quyidagi tushunchalardan qaysinisini olmaydi:",
+      "options": {
+        "A": "rollar;",
+        "B": "meʼyorlar;",
+        "C": "liderlik;",
+        "D": "individuallik;"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 11,
+      "question": "Kichik psixokorrektsion guruhning eng ko‘p soni bu:",
+      "options": {
+        "A": "5 ta inson;",
+        "B": "10 ta inson;",
+        "C": "15 ta inson;",
+        "D": "20 ta inson;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 12,
+      "question": "Psixoterepiya o‘tkazishga moneʼlik qiladigan holatlarning biri mos kelmaydi:",
+      "options": {
+        "A": "kuchli psixoz holati;",
+        "B": "intellektning pastligi;",
+        "C": "45 yoshdan katta insonlarning ishtirok etishi;",
+        "D": "9 yoshdan kichik bo‘lgan bolalarning ishtirok etishi."
+      },
+      "correct": "C"
+    },
+    {
+      "id": 13,
+      "question": "Patsietnning muammolari bo‘lgan vaqtda kuchli affekt holatlarini namoyon qilishi:",
+      "options": {
+        "A": "o‘tkazish",
+        "B": "katarsis",
+        "C": "proektsiya",
+        "D": "konfrontatsiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 14,
+      "question": "Sil kasaliga uchragan bemorlarni guruhiy yo‘l orqali davolagan amaerikalik vrach:",
+      "options": {
+        "A": "Z.Freyd",
+        "B": "L.S. Vigotskiy",
+        "C": "Dj.Pratt",
+        "D": "А.N. Leontev"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 15,
+      "question": "Reallik terapiya bu:",
+      "options": {
+        "A": "psixoterapevtdagi emotsiyalarni patsientga berish jarayoni;",
+        "B": "terapevtik psixokorrektsion guruh",
+        "C": "qiziqishlari bo‘yicha yigʼilgan guguh",
+        "D": "ayollar klubi"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 16,
+      "question": "Psixodrammada rejeser rolining vazifasi:",
+      "options": {
+        "A": "prodyuserlik;",
+        "B": "analitik",
+        "C": "boshqaruvchi;",
+        "D": "psixoterapevt;"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 17,
+      "question": "Quyida berilgan taʼriflarning qaysi biri “uchrashuv guruhlariga” to‘gʼri kelmaydi:",
+      "options": {
+        "A": "bir birlari bilan muloqot qilayotganda ochiqlik",
+        "B": "shu yerda va hozir tamoyili",
+        "C": "davolanish natijalari faqat psixoterapevtning yordamida sodir bo‘ladi",
+        "D": "birinchi navbatda xissiyotlar, aql emas"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 18,
+      "question": "…. davo maqsadlarida bemor yoki bemorlar guruhi psixikasiga ta’sir ko‘rsatish jarayonidir.",
+      "options": {
+        "A": "Psixodramma",
+        "B": "Psixokorreksiya",
+        "C": "Psixoterapiya",
+        "D": "Psixodiagnostika"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 19,
+      "question": "Egzistensial psixologiya qachon va qayerda paydo bo‘lgan:",
+      "options": {
+        "A": "XX asr boshlarida Amerikada",
+        "B": "XIX asrning 1-yarmi Yevropada",
+        "C": "XX asr oxiri Yevropada",
+        "D": "XIX asrning 2-yarmi Yevropada"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 20,
+      "question": "Jekobson tomonidan taklif etilgan usulning aniq nomi bu:",
+      "options": {
+        "A": "psixofiziologik o‘zini boshqarish;",
+        "B": "diqqatni jamlangan o‘zini erkin tutish;",
+        "C": "progressiv muskullar relaksatsiyasi;",
+        "D": "muskullar tonusini o‘zi boshqarishi."
+      },
+      "correct": "C"
+    },
+    {
+      "id": 21,
+      "question": "Аutogen trenirovka atamasini fanga kiritgan olim:",
+      "options": {
+        "A": "Kue",
+        "B": "Shults",
+        "C": "Boduen",
+        "D": "Z. Freyd"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 22,
+      "question": "Аutogen trenirovkaning asosida..... yotadi:",
+      "options": {
+        "A": "ratsional terapiya",
+        "B": "muskullar relaksatsiyasi;",
+        "C": "ixtiyoriy o‘ziga taʼsir o‘tkazish;",
+        "D": "ratsional psixoterapiya"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 23,
+      "question": "Psixologik trening o‘tkazishning umumiy qoidalariga asosan qatnashchilar soni:",
+      "options": {
+        "A": "17 tadan oshmasligi shart;",
+        "B": "16 tadan oshmasligi shart;",
+        "C": "15 tadan oshmasligi shart;",
+        "D": "18 tadan oshmasligi shart;"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 24,
+      "question": "Psixoterapevtik guruhni boshqarishni optimal stili bu:",
+      "options": {
+        "A": "avtoritar;",
+        "B": "liberal",
+        "C": "demokratik;",
+        "D": "anarxik"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 25,
+      "question": "T-guruhni vujudga kelishi bilan bogʼliq bo‘lgan nemis psixologi:",
+      "options": {
+        "A": "V. Frankl",
+        "B": "K. Levin;",
+        "C": "K. Rodjers",
+        "D": "Dj. Kelli;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 26,
+      "question": "Аnalitik psixoterepiyaga qaysi jarayon xos emas:",
+      "options": {
+        "A": "iqror bo‘lish;",
+        "B": "o‘qitish;",
+        "C": "asoslash, tahlil qilish;",
+        "D": "transformatsiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 27,
+      "question": "Аrxetip – bu:",
+      "options": {
+        "A": "shaxs xarakteristikasi",
+        "B": "analitik psixoterepiya;",
+        "C": "jamoaviy ongsizlikni asosi;",
+        "D": "gruxiy terapiya"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 28,
+      "question": "Qaysi muallifning fikriga ko‘ra shaxs tuzilishi: Ego, Аnima, o‘zlik:",
+      "options": {
+        "A": "Z. Freyd",
+        "B": "K. Yung;",
+        "C": "V. Rayx.",
+        "D": "А. Аdler;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 29,
+      "question": "Guruhiy psixoterapiyani asoschilaridan birini toping:",
+      "options": {
+        "A": "Z.Freyd",
+        "B": "L.S. Vigotskiy",
+        "C": "А.Аdler",
+        "D": "K.Xorni"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 30,
+      "question": "Trenerni guruh a’zolari bilan mashg’ulot davomiyligi haftasiga 4-5 kun nechi soatdan?",
+      "options": {
+        "A": "6-soatdan;",
+        "B": "8-soatdan;",
+        "C": "5-soatdan",
+        "D": "9-soatdan;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 31,
+      "question": "1936 yilda guruhiy dinamika atamasi kim tomonidan taklif qilingan:",
+      "options": {
+        "A": "B.V.Zeygarnik",
+        "B": "K. Levin",
+        "C": "F. Perlz",
+        "D": "V. Shtern"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 32,
+      "question": "Meditatsiyani aqlnib o‘zgartirish, bo‘ysundirish va boshqarish vositasi deb qaysi olim ta’riflagan?",
+      "options": {
+        "A": "K.Levin;",
+        "B": "K.Rodjers;",
+        "C": "G.Rabten;",
+        "D": "V.Catir"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 33,
+      "question": "Transaktsion tahlilning asoschisi:",
+      "options": {
+        "A": "А. Аdler;",
+        "B": "E. Bern;",
+        "C": "K. Rodjers;",
+        "D": "F. Perlz;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 34,
+      "question": "Ishtirokchilarni hozirgi vaqtda sodir bo‘layotgan holatlarga eʼtibor qaratish tamoyili:",
+      "options": {
+        "A": "faollik tamoyili",
+        "B": "shu yerda hozir tamoyili",
+        "C": "konfedentsiallik tamoyili",
+        "D": "determinizm tamoyili"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 35,
+      "question": "E.Bern bo‘yicha shaxs tuzilishi quyidagilardan iborat:",
+      "options": {
+        "A": "ota - ona – bola",
+        "B": "ota-ona - ustoz - bola;",
+        "C": "katta odam – ota-ona - bola;",
+        "D": "shifokor – ota-ona - bola;"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 36,
+      "question": "Transaktsiya – bu:",
+      "options": {
+        "A": "stimul;",
+        "B": "muloqot birligi",
+        "C": "reaktsiya;",
+        "D": "vaziyat"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 37,
+      "question": "Insonlar ko‘pincha stresslarga qarshi qaysi vositaga murojaat qilishadi?",
+      "options": {
+        "A": "musiqa;",
+        "B": "meditatsiya;",
+        "C": "yugurish;",
+        "D": "autotrening"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 38,
+      "question": "Psixologik o‘yinlar transaktsiya holatida ko'pincha shunday bo'ladi:",
+      "options": {
+        "A": "yopiq",
+        "B": "parallel",
+        "C": "bir biriga qo‘shiluvchi;",
+        "D": "paralel va bir biriga qo‘shiluvchi;"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 39,
+      "question": "Har bir guruh uchun trener tomonidan alohida qonun qoidalar ishlab chiqilishi:",
+      "options": {
+        "A": "kichik guruh holati",
+        "B": "guruhiy dinamika",
+        "C": "guruhiy meʼyorlar",
+        "D": "katta guruh holati"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 40,
+      "question": "Kim ijtimoiy-psixologik treningni ijtimoiy-didaktik faol yo‘nalishdir deb hisoblaydi?",
+      "options": {
+        "A": "B.D.Parigin",
+        "B": "G.A.Kovalev",
+        "C": "L.A.Petrovskaya",
+        "D": "P.O.Gorboshina"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 41,
+      "question": "Autogen mashq qilishning maqsadi:",
+      "options": {
+        "A": "o‘zligini anglashga yordam berush",
+        "B": "nerv faoliyatini boshqara olishni oʻrganishdir .",
+        "C": "Jamoani jipslashtirish-ga yordam berush",
+        "D": "Suitsidal xolatlarda yordam berush"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 42,
+      "question": "Karl Rodjersning terapevtik yondoshuvi bu:",
+      "options": {
+        "A": "geshtalt-terapiya;",
+        "B": "individual psixoterapiya;",
+        "C": "mijozga qaratilgan terapiya",
+        "D": "analitik psixoterapiya"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 43,
+      "question": "Qaysi olim “Trening – bu shaxsni o‘zgartirishga qaratilgan hissiyotlarga boy bo‘lgan mashg’ulot turidir” deb ta’kidlagan?",
+      "options": {
+        "A": "B.D.Parigin",
+        "B": "L.A.Petrovskaya",
+        "C": "G.A.Kovalev",
+        "D": "P.O.Gorboshina"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 44,
+      "question": "Zaonaviy psixoterapiyaga geshtalt terapiyaning ko‘pgina atamalarini joriy qilgan inson:",
+      "options": {
+        "A": "J.Piaje",
+        "B": "P.Gudman",
+        "C": "Y.Mareno",
+        "D": "K.Kofka"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 45,
+      "question": "Trening so‘zining ma’nosi:",
+      "options": {
+        "A": "tarbiyalash",
+        "B": "o‘rgatish",
+        "C": "unutish",
+        "D": "o‘yin"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 46,
+      "question": "Kognitiv psixoterapiya bu:",
+      "options": {
+        "A": "analitik va kognitiv terapiyani qo‘shilmasi",
+        "B": "psixoanaliz va bixiviorizmni qo‘shilmasi",
+        "C": "bu kognitiv va bixverioral terapiyaning qo‘shilmasi",
+        "D": "tana va ekzistentsialь terapiyaning qo‘shilmasi"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 47,
+      "question": "Psixoterepiyada olti bosqichdan iborat bo‘lgan refreyming bu:",
+      "options": {
+        "A": "Guruhiy",
+        "B": "neyrolingvistik",
+        "C": "analitik;",
+        "D": "individual"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 48,
+      "question": "Bixeviorizm atamasini fanga kiritgan olim:",
+      "options": {
+        "A": "B. Skinner",
+        "B": "V. Tolmen;",
+        "C": "D. Uotson;",
+        "D": "L. S. Vigotskiy."
+      },
+      "correct": "C"
+    },
+    {
+      "id": 49,
+      "question": "Perzl tomonidan taklif qilingan, geshtalьt terapiyaga asoslangan guruh:",
+      "options": {
+        "A": "reallik terapiya",
+        "B": "geshtalt – guruh",
+        "C": "T-guruh",
+        "D": "yopiq guruh"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 50,
+      "question": "Guruhiy faoliyat davomida ishtirokchilarning almashib turishi mumkin bo'lgan guruh:",
+      "options": {
+        "A": "ochiq guruh",
+        "B": "T-guruh",
+        "C": "geshtalt – guruh",
+        "D": "yopiq guruh"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 51,
+      "question": "Ishtirokchilarning soni treningni boshidan oxirigacha o‘zgarishsiz qoladigan guruh:",
+      "options": {
+        "A": "T-guruh",
+        "B": "yopiq guruh",
+        "C": "geshtalt – guruh",
+        "D": "ochiq guruh"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 52,
+      "question": "Turli xildagi ishtirokchilar va turli jinsdagilarni o‘z ichiga olgan guruh:",
+      "options": {
+        "A": "gomogen guruh",
+        "B": "getrogen guruh",
+        "C": "kichik gugur",
+        "D": "ochiq guruh"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 53,
+      "question": "Tanaga qaratilgan psixoterapiya muallifi:",
+      "options": {
+        "A": "R. Djekobson;",
+        "B": "V. Rayx;",
+        "C": "V. Shulьts;",
+        "D": "А. Louen;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 54,
+      "question": "Bir jinsga va bir xil yosh guruhiga oid ishtirokchilar guruhi:",
+      "options": {
+        "A": "getrogen guruh",
+        "B": "gomogen guruh",
+        "C": "kichik gugur",
+        "D": "ochiq guruh"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 55,
+      "question": "Psixoterepevt ishtirokchi sifatida qanday holatda bo'ladi:",
+      "options": {
+        "A": "asosan ishtirokchilarni xatti-harakati va suhbatlarini tahlil qiladi",
+        "B": "ochiqlik holatini namoyon qiladi va o‘zining ko‘rinishida o‘zini namoyon qilishni ko‘rsatadi",
+        "C": "guruhni keyingi vazifani bajarishga majbur qiladi",
+        "D": "guruhni faoliyat ko‘rsatishga majbur qilmaydi"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 56,
+      "question": "Psixik va psixosomatik kasalliklarni kompleks tarzda davolash usuli:",
+      "options": {
+        "A": "psixokorrektsiya",
+        "B": "psixologik maslahat",
+        "C": "guruhiy psixoterapiya",
+        "D": "art-terapiya"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 57,
+      "question": "Qaysi psixoterapiya asosi fon va figuraga munosabatni shakllantiradi:",
+      "options": {
+        "A": "Psixoanaliz",
+        "B": "Geshtal-terapiya",
+        "C": "Analitik psixoterapiya",
+        "D": "Аdler psixoterapiyasi"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 58,
+      "question": "Individual psixoterapiya qaysi olimning gʼoyasiga asoslanadi:",
+      "options": {
+        "A": "K.Yung",
+        "B": "А.Аdler;",
+        "C": "F.Perlz;",
+        "D": "А.Ellis"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 59,
+      "question": "Guruh ichidagi ijtimoyi psixologik jarayon va ko‘rinishlarni yigʼindisi:",
+      "options": {
+        "A": "guruhiy meʼyorlar",
+        "B": "guruhiy dinamika",
+        "C": "ijtimoiylashish jarayoni",
+        "D": "guruhiy psixoterapiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 60,
+      "question": "Insonlar soni bilan birlashadigan, bir xil hayot tarzi bilan shugʼillanadigan jamoa:",
+      "options": {
+        "A": "meʼyor",
+        "B": "guruh",
+        "C": "dinamika",
+        "D": "ijtimoiylashish"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 61,
+      "question": "Rahbarni guruh aʼzolariga qattiqqo‘llik bilan taʼsir ko‘rsatishi:",
+      "options": {
+        "A": "demokratik usul",
+        "B": "avtoritar usul",
+        "C": "liberal usul",
+        "D": "qatʼiy tartib oʻrnatish"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 62,
+      "question": "Guruh ishtirokchilarini fikrini inobatga olib, birgalikda qarorlar qabul qilish usuli:",
+      "options": {
+        "A": "liberal usul",
+        "B": "demokratik usul",
+        "C": "avtoritar usul",
+        "D": "aralash usul"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 63,
+      "question": "Guruhda liderni inkor qilib hamma o‘zicha boshqarish holati:",
+      "options": {
+        "A": "demokratik usul",
+        "B": "liberal usul",
+        "C": "avtoritar usul",
+        "D": "tartibning buzilishi"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 64,
+      "question": "Guruh aʼzolarining bir biriga bogʼliqligi va yagona fikrlarning mavjudligi:",
+      "options": {
+        "A": "meʼyorlar",
+        "B": "axillik",
+        "C": "insayt",
+        "D": "katarsis"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 65,
+      "question": "Guruhiy psixoterapiya atamasi 1932 yilda kiritlgan olim:",
+      "options": {
+        "A": "А. Аdler",
+        "B": "Ya. Moreno",
+        "C": "F. Perls",
+        "D": "Z. Freyd"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 66,
+      "question": "Omad kelishiga ishonish va boshqalarning holatlariga qarab tuzalish holati:",
+      "options": {
+        "A": "ahillik",
+        "B": "umid qilish",
+        "C": "muammolarning birligi",
+        "D": "mummoga yechim izlash"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 67,
+      "question": "Psixoterapevtik guruhning meʼyorlar va maqsadlar tizimlashtiriladigan uchinchi fazasi nomi:",
+      "options": {
+        "A": "muammolarni yechish",
+        "B": "ahillikni rivojlanishi",
+        "C": "yakunlash",
+        "D": "xulosalash"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 68,
+      "question": "Boshqa insonlarning xatti-harakatlariga qarab o‘z harakatlarini to‘gʼirlashi:",
+      "options": {
+        "A": "proektsiya",
+        "B": "introektsiya",
+        "C": "retrofleksiya",
+        "D": "ekstroversiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 69,
+      "question": "Trening - shaxslararo munosabatlardagi bilimlar va tajribalarni rivojlantirishga qaratilgan deb ta'riflagan olim:",
+      "options": {
+        "A": "B.D.Parigin",
+        "B": "L.A.Petrovskaya",
+        "C": "G.A.Kovalev",
+        "D": "P.O.Gorboshina"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 70,
+      "question": "Аrtterapiya atamasi Аdrian Xill tomonidan qanday vaziyatda kiritilgan:",
+      "options": {
+        "A": "ruhiy kasallar bilan ishlayotgan vaqtda;",
+        "B": "sil kasallari bilan ogʼriganlar vaqtida;",
+        "C": "aqli zaiflar bilan ishlagan vaqtda;",
+        "D": "onkologik kasallarda"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 71,
+      "question": "Аssertivlik treningi bu:",
+      "options": {
+        "A": "psixogimnastik trening;",
+        "B": "o‘ziga nisbatan ishonchli faoliyat ko‘rsatish treningi;",
+        "C": "parodoksal intentsiya treningi.",
+        "D": "direktiv o‘yinli terapiya;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 72,
+      "question": "Geshtalt guruxning asosi bo'lgan tamoyil:",
+      "options": {
+        "A": "«men-sen tamoyili»;",
+        "B": "«shu yerda va hozir»;",
+        "C": "«pastdan - tepaga» tamoyili",
+        "D": "«tepadan pastga» tamoyili;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 73,
+      "question": "Qaysi tering guruhida somatik kasalliklar bo‘lsa ishtirok cheklanadi:",
+      "options": {
+        "A": "geshtalt guruh",
+        "B": "tana harakatiga yo‘naltirilgan trening.",
+        "C": "psixoanalitik guruh;",
+        "D": "psixodramma guruhi;"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 74,
+      "question": "Shaxsni to‘liq rivojlanishi uchun psixologik taʼsirni tizimga yo‘naltirish:",
+      "options": {
+        "A": "psixologik diagnostika",
+        "B": "psixokorrektsiya",
+        "C": "psixologik maslahat",
+        "D": "guruhiy psixoterapiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 75,
+      "question": "Kim Psixologik yosh tushunchasini fanga olib kirgan:",
+      "options": {
+        "A": "Pavlov",
+        "B": "Vigotskiy",
+        "C": "Rubishteyn",
+        "D": "Bern"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 76,
+      "question": "Korreksion ishda rivojlantiruv va profilaktik vazifalarni hisobga oluvchi tamoyil:",
+      "options": {
+        "A": "psixologik faoliyat tizimliligi tamoyili",
+        "B": "rivojlanish normativligi tamoyili",
+        "C": "korreksiyaning quyidan yuqoriga tamoyili",
+        "D": "korreksiyaning yuqoridan quyiga tamoyili"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 77,
+      "question": "Psixoterapiyaga muhtoj bo‘lmagan mijozga yordam ko‘rsatish usullarini ishlab chiqadigan bo‘lim:",
+      "options": {
+        "A": "Psixoterapiya",
+        "B": "Psixologik konsultatsiya",
+        "C": "Psixokorreksiya",
+        "D": "Psixodiagnostika"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 78,
+      "question": "Bixevoyrizm yunalsh asoschilari kim:",
+      "options": {
+        "A": "E.Bern F.Perlz",
+        "B": "D.Utson, B.Sknner",
+        "C": "F.Perlz ,E.Bern",
+        "D": "Dj.Moreno E.Bern"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 79,
+      "question": "Oilaviy konsultatsiya bo‘yicha ilmiy izlanishlar olib borgan olim:",
+      "options": {
+        "A": "E.Eydimiller",
+        "B": "V.Satir",
+        "C": "K.Vitaker",
+        "D": "Dj.Moreno"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 80,
+      "question": "Ratsional emotiv terapiyada asosiy vosita nima?",
+      "options": {
+        "A": "aniqlik kiritish",
+        "B": "mantiqiy argument",
+        "C": "ta’sir o‘tkazish",
+        "D": "shaxs korreksiyasi"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 81,
+      "question": "V.Frankl qaysi yo'nalish asoschisi sifatida mashhur?",
+      "options": {
+        "A": "sotsial terapiya",
+        "B": "Logoterapiya",
+        "C": "ratsional psixoterapiya",
+        "D": "induvidial psixoterapiya"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 82,
+      "question": "’’Erkin assotsiatsiyalar’’ va ‘’tushlar talqini’’ tushunchalari qaysi yo‘nalishga tegishli?",
+      "options": {
+        "A": "Pozitiv",
+        "B": "Psixodinamik",
+        "C": "Kognitiv",
+        "D": "Gumanistik"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 83,
+      "question": "Korreksion ish amaliyotida qiyinchiliklarni bartaraf etuvchi nechta model bor:",
+      "options": {
+        "A": "5ta",
+        "B": "6ta",
+        "C": "7ta",
+        "D": "9ta"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 84,
+      "question": "Konsultant psixolog shaxsining muhim xarakteristikalari:",
+      "options": {
+        "A": "o‘z-o‘zini baholash va intelektning yuqori darajasi.",
+        "B": "boshqa shaxsning qadriyatlarini hurmat qilish, emotsianal turg’unlik, empatik qobiliyat.",
+        "C": "talabchanlik ,muloqatchanlik,punktuallik.",
+        "D": "talabchanlik ,muloqatchanlik, intellektning yuqori darajasi"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 85,
+      "question": "Guruhiy konsultatsiya uchun guruhlarni hajmiga kòra nechta guruhga bòlamiz:",
+      "options": {
+        "A": "4ta",
+        "B": "3ta",
+        "C": "5ta",
+        "D": "6ta"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 86,
+      "question": "Konformizmga qarshi turuvchi pozitsiya hisoblanadi:",
+      "options": {
+        "A": "Negativism",
+        "B": "Nonkonformizm",
+        "C": "Protest",
+        "D": "Nigilizm"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 87,
+      "question": "Biologik teskari aloqa odamga nima uchun yordam beradi:",
+      "options": {
+        "A": "o‘z-o‘zini baholashni o‘rganishga",
+        "B": "oʻzining fiziologik jarayoni haqida maʼlumot olishga",
+        "C": "punktuallikni o‘rganishga",
+        "D": "intellektni o‘rganishga"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 88,
+      "question": "Insoning boshqalarning kechinmalariga emotsional xayrixoxligi:",
+      "options": {
+        "A": "kongruentlik",
+        "B": "empatiya",
+        "C": "tolerantlik",
+        "D": "konfidensiallik"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 90,
+      "question": "Professional psixologiyaning axborot saqlash bilan bog’liq asosiy qoidasi:",
+      "options": {
+        "A": "Toleriantlik",
+        "B": "Konfidensiallik",
+        "C": "Empatiya",
+        "D": "Paradox"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 91,
+      "question": "O‘qib o‘rganayotgan psixologga maslahat beruvchi mutaxassis:",
+      "options": {
+        "A": "Pedagog",
+        "B": "Supervizor",
+        "C": "Laborant",
+        "D": "Yordamchi"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 92,
+      "question": "Bern tushintirishi bòyicha shaxs xarakter tuzilmasi nechta:",
+      "options": {
+        "A": "4ta",
+        "B": "3ta",
+        "C": "5ta",
+        "D": "6ta"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 93,
+      "question": "Аntipatiya bu:",
+      "options": {
+        "A": "bir-biriga xamdardlik berish",
+        "B": "bir-birini yoqtirmaslik",
+        "C": "bir-biriga befarqlik",
+        "D": "bir-birini yoqtirish"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 94,
+      "question": "Аvtoritar oila bu:",
+      "options": {
+        "A": "ayol boshchiligidagi oila",
+        "B": "boshliq erkak",
+        "C": "farzandlar boshidagi oila",
+        "D": "boshlig'i yo‘q oila"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 95,
+      "question": "«Frustratsiya» bu:",
+      "options": {
+        "A": "zo‘riqish",
+        "B": "umidsizlik, aldanish",
+        "C": "xayajon",
+        "D": "qo‘rquv"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 96,
+      "question": "Taʼlimda psixokorrektsiya bu:",
+      "options": {
+        "A": "taʼlim oluvchilar bilan individual ishlash",
+        "B": "kamchiliklarni, muammoni yechimini topish va tuzatish.",
+        "C": "muammoni yechimini toppish",
+        "D": "muammoni oldini olish"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 97,
+      "question": "Sanogen tafakkur bu:",
+      "options": {
+        "A": "ijodiy tafakkur",
+        "B": "sog'lomlashtiruvchi tafakkur",
+        "C": "faoliyatga undovchi tafakkur",
+        "D": "oddiy tafakkur"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 98,
+      "question": "«Empatiya» so‘zining lugaviy maʼnosi:",
+      "options": {
+        "A": "befarq bo‘lib qolish",
+        "B": "xis qilish",
+        "C": "sevib qolish",
+        "D": "yoqtirib qolish"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 99,
+      "question": "Psixoterapevt erkinlik va javobgarlikning o‘rnini qatʼiy belgilagan olim:",
+      "options": {
+        "A": "V.Satir",
+        "B": "Otto Rank",
+        "C": "Ya.Vargay",
+        "D": "V.Salivin"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 100,
+      "question": "Psixoanalizning predmeti:",
+      "options": {
+        "A": "Obraz",
+        "B": "Ongsizlik",
+        "C": "Tafakkur",
+        "D": "Xulq"
+      },
+      "correct": "B"
+    }
+  ],
   "Psixologik_ma'lumotlarni_qayta_ishlash_metodlari_va_texnologiyalari": [
     {
       "id": 1,
@@ -231,5 +1323,6 @@
       },
       "correct": "C"
     }
+
   ]
 }
